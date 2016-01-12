@@ -1,0 +1,69 @@
+.input a_ipin 
+pinlist: a_out
+
+.input b_ipin 
+pinlist: b_out
+
+.input c_ipin 
+pinlist: c_out
+
+.input d_ipin 
+pinlist: d_out
+
+.input e_ipin 
+pinlist: e_out
+
+.input f_ipin 
+pinlist: f_out
+
+.input g_ipin 
+pinlist: g_out
+
+.input h_ipin 
+pinlist: h_out
+
+.input i_ipin 
+pinlist: i_out
+
+.input j_ipin 
+pinlist: j_out
+
+.input k_ipin 
+pinlist: k_out
+
+.input l_ipin 
+pinlist: l_out
+
+.input m_ipin 
+pinlist: m_out
+
+.input n_ipin 
+pinlist: n_out
+
+.input o_ipin 
+pinlist: o_out
+
+.input p_ipin 
+pinlist: p_out
+
+
+.output out_opin 
+pinlist: out_in
+
+.con a_out out_in
+.con c_out out_in
+.con b_out out_in
+.con e_out out_in
+.con d_out out_in
+.con g_out out_in
+.con f_out out_in
+.con i_out out_in
+.con h_out out_in
+.con k_out out_in
+.con j_out out_in
+.con m_out out_in
+.con l_out out_in
+.con o_out out_in
+.con n_out out_in
+.con p_out out_in
+

@@ -1,0 +1,462 @@
+.input input[0]_ipin 
+pinlist: input[0]_out
+
+.input input[1]_ipin 
+pinlist: input[1]_out
+
+.input input[2]_ipin 
+pinlist: input[2]_out
+
+.input input[3]_ipin 
+pinlist: input[3]_out
+
+.input input[4]_ipin 
+pinlist: input[4]_out
+
+.input input[5]_ipin 
+pinlist: input[5]_out
+
+.input input[6]_ipin 
+pinlist: input[6]_out
+
+.input input[7]_ipin 
+pinlist: input[7]_out
+
+.input clk_ipin 
+pinlist: clk_out
+
+
+.output output[0]_opin 
+pinlist: output[0]_in
+
+.con output[0]_out output[0]_in
+
+.output output[1]_opin 
+pinlist: output[1]_in
+
+.con output[1]_out output[1]_in
+
+.output output[2]_opin 
+pinlist: output[2]_in
+
+.con output[2]_out output[2]_in
+
+.output output[3]_opin 
+pinlist: output[3]_in
+
+.con output[3]_out output[3]_in
+
+.output output[4]_opin 
+pinlist: output[4]_in
+
+.con output[4]_out output[4]_in
+
+.output output[5]_opin 
+pinlist: output[5]_in
+
+.con output[5]_out output[5]_in
+
+.output output[6]_opin 
+pinlist: output[6]_in
+
+.con output[6]_out output[6]_in
+
+.output output[7]_opin 
+pinlist: output[7]_in
+
+.con output[7]_out output[7]_in
+
+
+.clb n69
+pinlist: n69_in1 n69_in2 open open n69_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[0]_out n69_in1
+.con g2_out n69_in2
+
+.clb n70
+pinlist: n70_in1 n70_in2 n70_in3 n70_in4 n70_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g6_out n70_in1
+.con input[1]_out n70_in2
+.con input[0]_out n70_in3
+.con g2_out n70_in4
+
+.clb n72
+pinlist: n72_in1 n72_in2 n72_in3 open n72_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[2]_out n72_in1
+.con g14_out n72_in2
+.con n73_out n72_in3
+
+.clb n73
+pinlist: n73_in1 n73_in2 n73_in3 n73_in4 n73_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g6_out n73_in1
+.con input[1]_out n73_in2
+.con input[0]_out n73_in3
+.con g2_out n73_in4
+
+.clb n74
+pinlist: n74_in1 n74_in2 n74_in3 n74_in4 n74_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g5_out n74_in1
+.con n70_out n74_in2
+.con n69_out n74_in3
+.con g1_out n74_in4
+
+.clb n75
+pinlist: n75_in1 n75_in2 n75_in3 n75_in4 n75_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[1]_out n75_in1
+.con g5_out n75_in2
+.con input[0]_out n75_in3
+.con g1_out n75_in4
+
+.clb n77
+pinlist: n77_in1 n77_in2 n77_in3 open n77_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g31_out n77_in1
+.con n78_out n77_in2
+.con input[3]_out n77_in3
+
+.clb n78
+pinlist: n78_in1 n78_in2 n78_in3 open n78_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[2]_out n78_in1
+.con g14_out n78_in2
+.con n73_out n78_in3
+
+.clb n79
+pinlist: n79_in1 n79_in2 n79_in3 open n79_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n74_out n79_in1
+.con g13_out n79_in2
+.con n72_out n79_in3
+
+.clb n80
+pinlist: n80_in1 n80_in2 n80_in3 open n80_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[2]_out n80_in1
+.con n75_out n80_in2
+.con g13_out n80_in3
+
+.clb n82
+pinlist: n82_in1 n82_in2 n82_in3 open n82_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g48_out n82_in1
+.con n83_out n82_in2
+.con input[4]_out n82_in3
+
+.clb n83
+pinlist: n83_in1 n83_in2 n83_in3 open n83_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g31_out n83_in1
+.con n78_out n83_in2
+.con input[3]_out n83_in3
+
+.clb n84
+pinlist: n84_in1 n84_in2 n84_in3 open n84_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g30_out n84_in1
+.con n77_out n84_in2
+.con n79_out n84_in3
+
+.clb n85
+pinlist: n85_in1 n85_in2 n85_in3 open n85_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g30_out n85_in1
+.con n80_out n85_in2
+.con input[3]_out n85_in3
+
+.clb n87
+pinlist: n87_in1 n87_in2 n87_in3 open n87_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n88_out n87_in1
+.con input[5]_out n87_in2
+.con g65_out n87_in3
+
+.clb n88
+pinlist: n88_in1 n88_in2 n88_in3 open n88_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g48_out n88_in1
+.con n83_out n88_in2
+.con input[4]_out n88_in3
+
+.clb n89
+pinlist: n89_in1 n89_in2 n89_in3 open n89_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n84_out n89_in1
+.con n82_out n89_in2
+.con g47_out n89_in3
+
+.clb n90
+pinlist: n90_in1 n90_in2 n90_in3 open n90_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n85_out n90_in1
+.con input[4]_out n90_in2
+.con g47_out n90_in3
+
+.clb n92
+pinlist: n92_in1 n92_in2 n92_in3 open n92_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n93_out n92_in1
+.con input[6]_out n92_in2
+.con g82_out n92_in3
+
+.clb n93
+pinlist: n93_in1 n93_in2 n93_in3 open n93_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n88_out n93_in1
+.con input[5]_out n93_in2
+.con g65_out n93_in3
+
+.clb n94
+pinlist: n94_in1 n94_in2 n94_in3 open n94_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n87_out n94_in1
+.con n89_out n94_in2
+.con g64_out n94_in3
+
+.clb n95
+pinlist: n95_in1 n95_in2 n95_in3 open n95_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n90_out n95_in1
+.con input[5]_out n95_in2
+.con g64_out n95_in3
+
+.clb n97
+pinlist: n97_in1 n97_in2 n97_in3 open n97_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n98_out n97_in1
+.con input[7]_out n97_in2
+.con g99_out n97_in3
+
+.clb n98
+pinlist: n98_in1 n98_in2 n98_in3 open n98_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n93_out n98_in1
+.con input[6]_out n98_in2
+.con g82_out n98_in3
+
+.clb n99
+pinlist: n99_in1 n99_in2 n99_in3 open n99_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n92_out n99_in1
+.con g81_out n99_in2
+.con n94_out n99_in3
+
+.clb n100
+pinlist: n100_in1 n100_in2 n100_in3 open n100_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[6]_out n100_in1
+.con g81_out n100_in2
+.con n95_out n100_in3
+
+.clb output[0]
+pinlist: output[0]_in1 output[0]_in2 output[0]_in3 open output[0]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[0]_out output[0]_in1
+.con g2_out output[0]_in2
+.con g1_out output[0]_in3
+
+.clb output[1]
+pinlist: output[1]_in1 output[1]_in2 output[1]_in3 output[1]_in4 output[1]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[1]_out output[1]_in1
+.con n70_out output[1]_in1
+.con g5_out output[1]_in2
+.con input[0]_out output[1]_in3
+.con n69_out output[1]_in3
+.con g1_out output[1]_in4
+
+.clb output[2]
+pinlist: output[2]_in1 output[2]_in2 output[2]_in3 open output[2]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con input[2]_out output[2]_in1
+.con n74_out output[2]_in1
+.con n75_out output[2]_in2
+.con n72_out output[2]_in2
+.con g13_out output[2]_in3
+
+.clb output[3]
+pinlist: output[3]_in1 output[3]_in2 output[3]_in3 open output[3]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g30_out output[3]_in1
+.con n77_out output[3]_in2
+.con n80_out output[3]_in2
+.con n79_out output[3]_in3
+.con input[3]_out output[3]_in3
+
+.clb output[4]
+pinlist: output[4]_in1 output[4]_in2 output[4]_in3 open output[4]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n85_out output[4]_in1
+.con n84_out output[4]_in1
+.con input[4]_out output[4]_in2
+.con n82_out output[4]_in2
+.con g47_out output[4]_in3
+
+.clb output[5]
+pinlist: output[5]_in1 output[5]_in2 output[5]_in3 open output[5]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n87_out output[5]_in1
+.con n90_out output[5]_in1
+.con n89_out output[5]_in2
+.con input[5]_out output[5]_in2
+.con g64_out output[5]_in3
+
+.clb output[6]
+pinlist: output[6]_in1 output[6]_in2 output[6]_in3 open output[6]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n92_out output[6]_in1
+.con input[6]_out output[6]_in1
+.con g81_out output[6]_in2
+.con n94_out output[6]_in3
+.con n95_out output[6]_in3
+
+.clb output[7]
+pinlist: output[7]_in1 output[7]_in2 output[7]_in3 open output[7]_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n99_out output[7]_in1
+.con input[7]_out output[7]_in1
+.con n97_out output[7]_in2
+.con n100_out output[7]_in2
+.con g98_out output[7]_in3
+
+.clb g81 #only FF used
+pinlist: g81_ffin open open open g81_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n92_out g81_ffin
+.con g82_out g81_ffin
+
+.clb g30 #only FF used
+pinlist: g30_ffin open open open g30_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con g31_out g30_ffin
+.con n77_out g30_ffin
+
+.clb g31 #only FF used
+pinlist: g31_ffin open open open g31_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[3]_out g31_ffin
+
+.clb g14 #only FF used
+pinlist: g14_ffin open open open g14_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[2]_out g14_ffin
+
+.clb g2 #only FF used
+pinlist: g2_ffin open open open g2_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[0]_out g2_ffin
+
+.clb g48 #only FF used
+pinlist: g48_ffin open open open g48_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[4]_out g48_ffin
+
+.clb g13 #only FF used
+pinlist: g13_ffin open open open g13_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con g14_out g13_ffin
+.con n72_out g13_ffin
+
+.clb g47 #only FF used
+pinlist: g47_ffin open open open g47_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con g48_out g47_ffin
+.con n82_out g47_ffin
+
+.clb g6 #only FF used
+pinlist: g6_ffin open open open g6_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[1]_out g6_ffin
+
+.clb g5 #only FF used
+pinlist: g5_ffin open open open g5_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con g6_out g5_ffin
+.con n70_out g5_ffin
+
+.clb g82 #only FF used
+pinlist: g82_ffin open open open g82_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[6]_out g82_ffin
+
+.clb g65 #only FF used
+pinlist: g65_ffin open open open g65_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[5]_out g65_ffin
+
+.clb g99 #only FF used
+pinlist: g99_ffin open open open g99_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con input[7]_out g99_ffin
+
+.clb g98 #only FF used
+pinlist: g98_ffin open open open g98_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n97_out g98_ffin
+.con g99_out g98_ffin
+
+.clb g64 #only FF used
+pinlist: g64_ffin open open open g64_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n87_out g64_ffin
+.con g65_out g64_ffin
+
+.clb g1 #only FF used
+pinlist: g1_ffin open open open g1_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con g2_out g1_ffin
+.con n69_out g1_ffin

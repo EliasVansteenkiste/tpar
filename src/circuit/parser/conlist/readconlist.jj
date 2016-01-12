@@ -1,0 +1,215 @@
+
+options {
+   STATIC = false;
+}
+
+PARSER_BEGIN(Readconlist)
+
+package circuit.parser.conlist;
+
+import java.io.*;
+import java.util.Map;
+import java.util.HashMap;
+import java.util.Vector;
+
+import circuit.*;
+
+public class Readconlist {
+  
+  Circuit circuit;
+  Vector<String> sinks;
+  Vector<String> sources;
+//  Vector<String> groups;
+  Map<String,Pin> sourcePinMap;
+  Map<String,Pin> sinkPinMap;
+  Map<String,Vector<Pin>> nonUniqueSinks;
+
+  public Circuit read() throws ParseException, FileNotFoundException  {
+    circuit = new Circuit();
+    sources = new Vector<String>();
+    sinks = new Vector<String>();
+//    groups = new Vector<String>();
+	sourcePinMap = new HashMap<String,Pin>();
+	sinkPinMap = new HashMap<String,Pin>();
+	nonUniqueSinks = new HashMap<String,Vector<Pin>>();
+    
+    Conlist();
+
+   	//Connect the connections with the pins/blocks
+    for (int i=0;i<sources.size();i++) {
+		Pin source = sourcePinMap.get(sources.get(i));
+    	Connection con = new Connection(source,source);
+    	source.con=con;
+    }
+
+   	//Connect the connections with the pins/blocks
+    for (int i=0;i<sinks.size();i++) {
+    	Pin sink = sinkPinMap.get(sinks.get(i));
+		Connection con = new Connection(sink, sink);
+		sink.con = con;
+    }
+    
+	//Connect the connections with the pins/blocks
+//	Boolean groupsInOK = false;
+//	if(groups.size()==sources.size())groupsInOK = true;
+//	else System.out.println("Not every connection has a group indicator");	  
+    for (int i=0;i<sources.size();i++) {
+		Pin source = sourcePinMap.get(sources.get(i));
+    	Pin sink = sinkPinMap.get(sinks.get(i));
+    	if(source==null)System.out.println("Error:source not connected");
+    	if(sink==null)System.out.println("Error:sink not connected");		Connection con = new Connection(source, sink, sink);
+		circuit.cons.add(con);
+//		if(groupsInOK)con.group = Integer.valueOf(groups.get(i));
+    }
+    return circuit;
+
+  }
+
+}
+
+PARSER_END(Readconlist)
+
+SKIP :
+{
+  " "
+| "\t"
+| "\n"
+| "\r"
+| < "#" (~["\n"])* "\n" >
+}
+
+TOKEN :
+{ < IN: ".input" >
+| < OUT: ".output" >
+| < CLB: ".clb" >
+| < CON: ".con">
+| < PINLIST: "pinlist:" >
+| < SUBBLOCK: "subblock:" >
+| < OPEN: "open" >
+| < Id: ["a"-"z","A"-"Z","_"] ( ["a"-"z","A"-"Z","0"-"9","_",":","[","]"] )* >
+| < Idn: "["  (["0"-"9"])+ "]">
+| < IdnId: "["  (["0"-"9"])+ "]" ( ["a"-"z","A"-"Z","0"-"9","_",":","[","]"] )* >
+| < NUMBER: (["0"-"9"])+ >
+}
+
+
+void Conlist() :
+{}
+{ (Block())*<EOF>
+}
+
+void Block():
+{}
+{ (Input()|Output()|Clb()|Con())
+}
+
+void Input() :
+{ Token name;
+  Token out;
+  Input in;
+}
+{ <IN> 
+  (name=<Id>|name=<Idn>) 
+  <PINLIST> 
+  (out=<Id>|out=<OPEN>|out=<Idn>|out=<IdnId>)
+  { //System.out.println("Input gevonden!");
+    in = new Input(name.image);
+    
+    //Adding the input block
+    if(!circuit.inputs.containsKey(in.name)) circuit.inputs.put(in.name,in);
+
+	//Adding output pin to pinMap
+	if(sinkPinMap.containsKey(out.image))System.out.println("Error while reading input block "+name.image+": sourcePinMap contains already a pin with name:"+out.image);
+	sourcePinMap.put(out.image,in.output);
+    
+  }	
+}
+
+void Output() :
+{ Token name;
+  Token in;
+  Output out;
+}
+{ <OUT> 
+  (name=<Id>|name=<Idn>) 
+  <PINLIST> 
+  (in=<Id>|in=<OPEN>|in=<Idn>|in=<IdnId>)
+  { //System.out.println("Output gevonden!");
+    out = new Output(name.image);
+
+    //Adding the output block.
+    if(!circuit.outputs.containsKey(out.name)) circuit.outputs.put(out.name,out);
+
+    //Adding input pin to pinMap
+    if(sinkPinMap.containsKey(in.image)) System.out.println("Error while reading output block "+name.image+": sinkPinMap contains already a pin with name:"+in.image);
+    sinkPinMap.put(in.image,out.input);
+  } 
+}
+
+void Clb() :
+{ Token name;
+  Token conId;
+  Clb clb;
+  int i;
+}
+{ <CLB> 
+  (name=<Id>|name=<Idn>) 
+  { clb = new Clb(name.image,1,4);
+    //Adding the CLB.
+    if(!circuit.clbs.containsKey(clb.name))
+      circuit.clbs.put(clb.name,clb);
+  }
+  
+  <PINLIST> {i = 0;}
+  ((conId=<Id>|conId=<Idn>|conId=<OPEN>|conId=<IdnId>)
+  {	if (i<4) {
+  		if(conId.image!="open") {
+  		    if(sinkPinMap.containsKey(conId.image))System.out.println("Error while reading clb "+name.image+": sinkPinMap contains already a pin with name:"+conId.image);
+	   		sinkPinMap.put(conId.image,clb.input[i]);
+    	}
+  	} else if (i==4) {
+  		if(conId.image!="open") {
+  		    if(sourcePinMap.containsKey(conId.image))System.out.println("Error while reading clb "+name.image+": sourcePinMap contains already a pin with name:"+conId.image);
+  			sourcePinMap.put(conId.image,clb.output[0]);
+    	}
+  	} else if (i==5) {
+  		if(conId.image!="open") {
+  		    if(sinkPinMap.containsKey(conId.image)){
+  		    	System.out.println("Warning: while reading CLB "+name.image+": sinkPinMap contains already a pin with name:"+conId.image+", assuming clock network");
+  		    	Vector<Pin> pins = nonUniqueSinks.get(conId.image);
+  		    	if(pins==null){
+  		    		pins = new Vector<Pin>();
+  					nonUniqueSinks.put(conId.image,pins);
+  		    	}
+  		    	pins.add(clb.clock);
+  		    }else{
+	   			sinkPinMap.put(conId.image,clb.clock);
+	   		}
+    	}
+  	}
+  	i++;	
+  })*
+  (<SUBBLOCK> (<Id>|<Idn>|<OPEN>)((<NUMBER>|<OPEN>|<Id>))+ )+
+  { //System.out.println("Clb gevonden!");
+  }
+}
+
+void Con():
+{ Token source,sink/*,group*/;
+}
+{ <CON>
+  ((source=<Id>|source=<Idn>|source=<IdnId>) (sink=<Id>|sink=<Idn>|sink=<IdnId>) //(group=<NUMBER>)*  //{
+    //groups.add(group.image);  //}
+  )
+  	{
+	  sources.add(source.image);	
+	  sinks.add(sink.image);
+	}
+}
+
+
+
+
+
+
+

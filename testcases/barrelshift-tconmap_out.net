@@ -1,0 +1,369 @@
+.input in0_ipin 
+pinlist: in0_out
+
+.input in1_ipin 
+pinlist: in1_out
+
+.input in2_ipin 
+pinlist: in2_out
+
+.input in3_ipin 
+pinlist: in3_out
+
+.input in4_ipin 
+pinlist: in4_out
+
+.input in5_ipin 
+pinlist: in5_out
+
+.input in6_ipin 
+pinlist: in6_out
+
+.input in7_ipin 
+pinlist: in7_out
+
+.input in8_ipin 
+pinlist: in8_out
+
+.input in9_ipin 
+pinlist: in9_out
+
+.input in10_ipin 
+pinlist: in10_out
+
+.input in11_ipin 
+pinlist: in11_out
+
+.input in12_ipin 
+pinlist: in12_out
+
+.input in13_ipin 
+pinlist: in13_out
+
+.input in14_ipin 
+pinlist: in14_out
+
+.input in15_ipin 
+pinlist: in15_out
+
+
+.output out0_opin 
+pinlist: out0_in
+
+.con in8_out out0_in
+.con in9_out out0_in
+.con in4_out out0_in
+.con in5_out out0_in
+.con in6_out out0_in
+.con in7_out out0_in
+.con in0_out out0_in
+.con in1_out out0_in
+.con in2_out out0_in
+.con in3_out out0_in
+.con in14_out out0_in
+.con in15_out out0_in
+.con in12_out out0_in
+.con in13_out out0_in
+.con in10_out out0_in
+.con in11_out out0_in
+
+.output out1_opin 
+pinlist: out1_in
+
+.con in8_out out1_in
+.con in9_out out1_in
+.con in4_out out1_in
+.con in5_out out1_in
+.con in6_out out1_in
+.con in7_out out1_in
+.con in0_out out1_in
+.con in1_out out1_in
+.con in2_out out1_in
+.con in3_out out1_in
+.con in14_out out1_in
+.con in15_out out1_in
+.con in12_out out1_in
+.con in13_out out1_in
+.con in10_out out1_in
+.con in11_out out1_in
+
+.output out2_opin 
+pinlist: out2_in
+
+.con in8_out out2_in
+.con in9_out out2_in
+.con in4_out out2_in
+.con in5_out out2_in
+.con in6_out out2_in
+.con in7_out out2_in
+.con in0_out out2_in
+.con in1_out out2_in
+.con in2_out out2_in
+.con in3_out out2_in
+.con in14_out out2_in
+.con in15_out out2_in
+.con in12_out out2_in
+.con in13_out out2_in
+.con in10_out out2_in
+.con in11_out out2_in
+
+.output out3_opin 
+pinlist: out3_in
+
+.con in8_out out3_in
+.con in9_out out3_in
+.con in4_out out3_in
+.con in5_out out3_in
+.con in6_out out3_in
+.con in7_out out3_in
+.con in0_out out3_in
+.con in1_out out3_in
+.con in2_out out3_in
+.con in3_out out3_in
+.con in14_out out3_in
+.con in15_out out3_in
+.con in12_out out3_in
+.con in13_out out3_in
+.con in10_out out3_in
+.con in11_out out3_in
+
+.output out4_opin 
+pinlist: out4_in
+
+.con in8_out out4_in
+.con in9_out out4_in
+.con in4_out out4_in
+.con in5_out out4_in
+.con in6_out out4_in
+.con in7_out out4_in
+.con in0_out out4_in
+.con in1_out out4_in
+.con in2_out out4_in
+.con in3_out out4_in
+.con in14_out out4_in
+.con in15_out out4_in
+.con in12_out out4_in
+.con in13_out out4_in
+.con in10_out out4_in
+.con in11_out out4_in
+
+.output out5_opin 
+pinlist: out5_in
+
+.con in8_out out5_in
+.con in9_out out5_in
+.con in4_out out5_in
+.con in5_out out5_in
+.con in6_out out5_in
+.con in7_out out5_in
+.con in0_out out5_in
+.con in1_out out5_in
+.con in2_out out5_in
+.con in3_out out5_in
+.con in14_out out5_in
+.con in15_out out5_in
+.con in12_out out5_in
+.con in13_out out5_in
+.con in10_out out5_in
+.con in11_out out5_in
+
+.output out6_opin 
+pinlist: out6_in
+
+.con in8_out out6_in
+.con in9_out out6_in
+.con in4_out out6_in
+.con in5_out out6_in
+.con in6_out out6_in
+.con in7_out out6_in
+.con in0_out out6_in
+.con in1_out out6_in
+.con in2_out out6_in
+.con in3_out out6_in
+.con in14_out out6_in
+.con in15_out out6_in
+.con in12_out out6_in
+.con in13_out out6_in
+.con in10_out out6_in
+.con in11_out out6_in
+
+.output out7_opin 
+pinlist: out7_in
+
+.con in8_out out7_in
+.con in9_out out7_in
+.con in4_out out7_in
+.con in5_out out7_in
+.con in6_out out7_in
+.con in7_out out7_in
+.con in0_out out7_in
+.con in1_out out7_in
+.con in2_out out7_in
+.con in3_out out7_in
+.con in14_out out7_in
+.con in15_out out7_in
+.con in12_out out7_in
+.con in13_out out7_in
+.con in10_out out7_in
+.con in11_out out7_in
+
+.output out8_opin 
+pinlist: out8_in
+
+.con in8_out out8_in
+.con in9_out out8_in
+.con in4_out out8_in
+.con in5_out out8_in
+.con in6_out out8_in
+.con in7_out out8_in
+.con in0_out out8_in
+.con in1_out out8_in
+.con in2_out out8_in
+.con in3_out out8_in
+.con in14_out out8_in
+.con in15_out out8_in
+.con in12_out out8_in
+.con in13_out out8_in
+.con in10_out out8_in
+.con in11_out out8_in
+
+.output out9_opin 
+pinlist: out9_in
+
+.con in8_out out9_in
+.con in9_out out9_in
+.con in4_out out9_in
+.con in5_out out9_in
+.con in6_out out9_in
+.con in7_out out9_in
+.con in0_out out9_in
+.con in1_out out9_in
+.con in2_out out9_in
+.con in3_out out9_in
+.con in14_out out9_in
+.con in15_out out9_in
+.con in12_out out9_in
+.con in13_out out9_in
+.con in10_out out9_in
+.con in11_out out9_in
+
+.output out10_opin 
+pinlist: out10_in
+
+.con in8_out out10_in
+.con in9_out out10_in
+.con in4_out out10_in
+.con in5_out out10_in
+.con in6_out out10_in
+.con in7_out out10_in
+.con in0_out out10_in
+.con in1_out out10_in
+.con in2_out out10_in
+.con in3_out out10_in
+.con in14_out out10_in
+.con in15_out out10_in
+.con in12_out out10_in
+.con in13_out out10_in
+.con in10_out out10_in
+.con in11_out out10_in
+
+.output out11_opin 
+pinlist: out11_in
+
+.con in8_out out11_in
+.con in9_out out11_in
+.con in4_out out11_in
+.con in5_out out11_in
+.con in6_out out11_in
+.con in7_out out11_in
+.con in0_out out11_in
+.con in1_out out11_in
+.con in2_out out11_in
+.con in3_out out11_in
+.con in14_out out11_in
+.con in15_out out11_in
+.con in12_out out11_in
+.con in13_out out11_in
+.con in10_out out11_in
+.con in11_out out11_in
+
+.output out12_opin 
+pinlist: out12_in
+
+.con in8_out out12_in
+.con in9_out out12_in
+.con in4_out out12_in
+.con in5_out out12_in
+.con in6_out out12_in
+.con in7_out out12_in
+.con in0_out out12_in
+.con in1_out out12_in
+.con in2_out out12_in
+.con in3_out out12_in
+.con in14_out out12_in
+.con in15_out out12_in
+.con in12_out out12_in
+.con in13_out out12_in
+.con in10_out out12_in
+.con in11_out out12_in
+
+.output out13_opin 
+pinlist: out13_in
+
+.con in8_out out13_in
+.con in9_out out13_in
+.con in4_out out13_in
+.con in5_out out13_in
+.con in6_out out13_in
+.con in7_out out13_in
+.con in0_out out13_in
+.con in1_out out13_in
+.con in2_out out13_in
+.con in3_out out13_in
+.con in14_out out13_in
+.con in15_out out13_in
+.con in12_out out13_in
+.con in13_out out13_in
+.con in10_out out13_in
+.con in11_out out13_in
+
+.output out14_opin 
+pinlist: out14_in
+
+.con in8_out out14_in
+.con in9_out out14_in
+.con in4_out out14_in
+.con in5_out out14_in
+.con in6_out out14_in
+.con in7_out out14_in
+.con in0_out out14_in
+.con in1_out out14_in
+.con in2_out out14_in
+.con in3_out out14_in
+.con in14_out out14_in
+.con in15_out out14_in
+.con in12_out out14_in
+.con in13_out out14_in
+.con in10_out out14_in
+.con in11_out out14_in
+
+.output out15_opin 
+pinlist: out15_in
+
+.con in8_out out15_in
+.con in9_out out15_in
+.con in4_out out15_in
+.con in5_out out15_in
+.con in6_out out15_in
+.con in7_out out15_in
+.con in0_out out15_in
+.con in1_out out15_in
+.con in2_out out15_in
+.con in3_out out15_in
+.con in14_out out15_in
+.con in15_out out15_in
+.con in12_out out15_in
+.con in13_out out15_in
+.con in10_out out15_in
+.con in11_out out15_in
+

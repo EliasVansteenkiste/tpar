@@ -1,0 +1,839 @@
+.input counterQ4[7]_ipin 
+pinlist: counterQ4[7]_out
+
+.input counterQ4[6]_ipin 
+pinlist: counterQ4[6]_out
+
+.input counterQ4[5]_ipin 
+pinlist: counterQ4[5]_out
+
+.input counterQ4[4]_ipin 
+pinlist: counterQ4[4]_out
+
+.input counterQ4[3]_ipin 
+pinlist: counterQ4[3]_out
+
+.input counterQ4[2]_ipin 
+pinlist: counterQ4[2]_out
+
+.input counterQ4[0]_ipin 
+pinlist: counterQ4[0]_out
+
+.input counterQ4[1]_ipin 
+pinlist: counterQ4[1]_out
+
+.input GrpR_In_ipin 
+pinlist: GrpR_In_out
+
+.input Op_In_ipin 
+pinlist: Op_In_out
+
+.input counterQ1[7]_ipin 
+pinlist: counterQ1[7]_out
+
+.input counterQ1[6]_ipin 
+pinlist: counterQ1[6]_out
+
+.input counterQ1[5]_ipin 
+pinlist: counterQ1[5]_out
+
+.input counterQ1[4]_ipin 
+pinlist: counterQ1[4]_out
+
+.input counterQ1[3]_ipin 
+pinlist: counterQ1[3]_out
+
+.input counterQ1[2]_ipin 
+pinlist: counterQ1[2]_out
+
+.input counterQ1[0]_ipin 
+pinlist: counterQ1[0]_out
+
+.input counterQ1[1]_ipin 
+pinlist: counterQ1[1]_out
+
+.input counterQ2[7]_ipin 
+pinlist: counterQ2[7]_out
+
+.input counterQ2[6]_ipin 
+pinlist: counterQ2[6]_out
+
+.input counterQ2[5]_ipin 
+pinlist: counterQ2[5]_out
+
+.input counterQ2[4]_ipin 
+pinlist: counterQ2[4]_out
+
+.input counterQ2[3]_ipin 
+pinlist: counterQ2[3]_out
+
+.input counterQ2[2]_ipin 
+pinlist: counterQ2[2]_out
+
+.input counterQ2[0]_ipin 
+pinlist: counterQ2[0]_out
+
+.input counterQ2[1]_ipin 
+pinlist: counterQ2[1]_out
+
+.input counterQ3[7]_ipin 
+pinlist: counterQ3[7]_out
+
+.input counterQ3[6]_ipin 
+pinlist: counterQ3[6]_out
+
+.input counterQ3[5]_ipin 
+pinlist: counterQ3[5]_out
+
+.input counterQ3[4]_ipin 
+pinlist: counterQ3[4]_out
+
+.input counterQ3[3]_ipin 
+pinlist: counterQ3[3]_out
+
+.input counterQ3[2]_ipin 
+pinlist: counterQ3[2]_out
+
+.input counterQ3[0]_ipin 
+pinlist: counterQ3[0]_out
+
+.input counterQ3[1]_ipin 
+pinlist: counterQ3[1]_out
+
+.input Char_In[0]_ipin 
+pinlist: Char_In[0]_out
+
+.input Char_In[7]_ipin 
+pinlist: Char_In[7]_out
+
+.input Char_In[4]_ipin 
+pinlist: Char_In[4]_out
+
+.input Char_In[2]_ipin 
+pinlist: Char_In[2]_out
+
+.input Char_In[6]_ipin 
+pinlist: Char_In[6]_out
+
+.input Char_In[1]_ipin 
+pinlist: Char_In[1]_out
+
+.input Char_In[3]_ipin 
+pinlist: Char_In[3]_out
+
+.input Char_In[5]_ipin 
+pinlist: Char_In[5]_out
+
+.input Ip_In_ipin 
+pinlist: Ip_In_out
+
+.input GrpIn_In_ipin 
+pinlist: GrpIn_In_out
+
+.input GrpL_In_ipin 
+pinlist: GrpL_In_out
+
+.input Cnt_En_In_ipin 
+pinlist: Cnt_En_In_out
+
+.input Syn_Rst_In_ipin 
+pinlist: Syn_Rst_In_out
+
+.input clk_ipin 
+pinlist: clk_out
+
+.input Asyn_Rst_ipin 
+pinlist: Asyn_Rst_out
+
+
+.output Op_Out_opin 
+pinlist: Op_Out_in
+
+.con Op_Out_out Op_Out_in
+
+.output Cnt_En_Out_opin 
+pinlist: Cnt_En_Out_in
+
+.con Cnt_En_Out_out Cnt_En_Out_in
+
+.output Syn_Rst_Out_opin 
+pinlist: Syn_Rst_Out_in
+
+.con Syn_Rst_Out_out Syn_Rst_Out_in
+
+.output GrpIn_Out_opin 
+pinlist: GrpIn_Out_in
+
+.con GrpIn_Out_out GrpIn_Out_in
+
+.output GrpL_Out_opin 
+pinlist: GrpL_Out_in
+
+.con GrpL_In_out GrpL_Out_in
+.con g17_out GrpL_Out_in
+.con g35_out GrpL_Out_in
+.con g55_out GrpL_Out_in
+.con g1_out GrpL_Out_in
+
+.output GrpR_Out_opin 
+pinlist: GrpR_Out_in
+
+.con GrpR_Out_out GrpR_Out_in
+
+.output Ip_Out_opin 
+pinlist: Ip_Out_in
+
+.con Ip_Out_out Ip_Out_in
+
+.output Syn_Rst_Inter1_out_opin 
+pinlist: Syn_Rst_Inter1_out_in
+
+.con Syn_Rst_Inter1_out_out Syn_Rst_Inter1_out_in
+
+.output Syn_Rst_Inter2_out_opin 
+pinlist: Syn_Rst_Inter2_out_in
+
+.con Syn_Rst_Inter2_out_out Syn_Rst_Inter2_out_in
+
+.output Syn_Rst_Inter3_out_opin 
+pinlist: Syn_Rst_Inter3_out_in
+
+.con Syn_Rst_Inter3_out_out Syn_Rst_Inter3_out_in
+
+.output Syn_Rst_Inter4_out_opin 
+pinlist: Syn_Rst_Inter4_out_in
+
+.con Syn_Rst_Inter4_out_out Syn_Rst_Inter4_out_in
+
+.output Cnt_En_Inter1_out_opin 
+pinlist: Cnt_En_Inter1_out_in
+
+.con Cnt_En_Inter1_out_out Cnt_En_Inter1_out_in
+
+.output Cnt_En_Inter2_out_opin 
+pinlist: Cnt_En_Inter2_out_in
+
+.con Cnt_En_Inter2_out_out Cnt_En_Inter2_out_in
+
+.output Cnt_En_Inter3_out_opin 
+pinlist: Cnt_En_Inter3_out_in
+
+.con Cnt_En_Inter3_out_out Cnt_En_Inter3_out_in
+
+.output Cnt_En_Inter4_out_opin 
+pinlist: Cnt_En_Inter4_out_in
+
+.con Cnt_En_Inter4_out_out Cnt_En_Inter4_out_in
+
+
+.clb Op_Out
+pinlist: Op_Out_in1 Op_Out_in2 Op_Out_in3 Op_Out_in4 Op_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n250_out Op_Out_in1
+.con n262_out Op_Out_in1
+.con n255_out Op_Out_in1
+.con n246_out Op_Out_in1
+.con n248_out Op_Out_in2
+.con g35_out Op_Out_in2
+.con n260_out Op_Out_in2
+.con counterQ4[7]_out Op_Out_in3
+.con g55_out Op_Out_in3
+.con counterQ3[7]_out Op_Out_in3
+.con g1_out Op_Out_in4
+
+.clb n246
+pinlist: n246_in1 n246_in2 n246_in3 n246_in4 n246_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ4[5]_out n246_in1
+.con counterQ4[6]_out n246_in2
+.con n247_out n246_in3
+.con counterQ4[4]_out n246_in4
+
+.clb n247
+pinlist: n247_in1 n247_in2 n247_in3 n247_in4 n247_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ4[0]_out n247_in1
+.con counterQ4[1]_out n247_in2
+.con counterQ4[2]_out n247_in3
+.con counterQ4[3]_out n247_in4
+
+.clb n248
+pinlist: n248_in1 n248_in2 n248_in3 n248_in4 n248_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ4[5]_out n248_in1
+.con counterQ4[6]_out n248_in2
+.con n249_out n248_in3
+.con counterQ4[4]_out n248_in4
+
+.clb n249
+pinlist: n249_in1 n249_in2 n249_in3 n249_in4 n249_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ4[0]_out n249_in1
+.con counterQ4[1]_out n249_in2
+.con counterQ4[2]_out n249_in3
+.con counterQ4[3]_out n249_in4
+
+.clb n250
+pinlist: n250_in1 n250_in2 n250_in3 open n250_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n253_out n250_in1
+.con Op_In_out n250_in1
+.con GrpR_In_out n250_in1
+.con g17_out n250_in2
+.con n251_out n250_in2
+.con counterQ1[7]_out n250_in3
+
+.clb n251
+pinlist: n251_in1 n251_in2 n251_in3 n251_in4 n251_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n252_out n251_in1
+.con counterQ1[5]_out n251_in2
+.con counterQ1[4]_out n251_in3
+.con counterQ1[6]_out n251_in4
+
+.clb n252
+pinlist: n252_in1 n252_in2 n252_in3 n252_in4 n252_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ1[0]_out n252_in1
+.con counterQ1[3]_out n252_in2
+.con counterQ1[2]_out n252_in3
+.con counterQ1[1]_out n252_in4
+
+.clb n253
+pinlist: n253_in1 n253_in2 n253_in3 n253_in4 n253_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ1[5]_out n253_in1
+.con counterQ1[4]_out n253_in2
+.con counterQ1[6]_out n253_in3
+.con n254_out n253_in4
+
+.clb n254
+pinlist: n254_in1 n254_in2 n254_in3 n254_in4 n254_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ1[0]_out n254_in1
+.con counterQ1[3]_out n254_in2
+.con counterQ1[2]_out n254_in3
+.con counterQ1[1]_out n254_in4
+
+.clb n255
+pinlist: n255_in1 n255_in2 n255_in3 open n255_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ2[7]_out n255_in1
+.con n258_out n255_in2
+.con n256_out n255_in3
+
+.clb n256
+pinlist: n256_in1 n256_in2 n256_in3 n256_in4 n256_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ2[4]_out n256_in1
+.con counterQ2[5]_out n256_in2
+.con n257_out n256_in3
+.con counterQ2[6]_out n256_in4
+
+.clb n257
+pinlist: n257_in1 n257_in2 n257_in3 n257_in4 n257_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ2[2]_out n257_in1
+.con counterQ2[3]_out n257_in2
+.con counterQ2[0]_out n257_in3
+.con counterQ2[1]_out n257_in4
+
+.clb n258
+pinlist: n258_in1 n258_in2 n258_in3 n258_in4 n258_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ2[4]_out n258_in1
+.con counterQ2[5]_out n258_in2
+.con n259_out n258_in3
+.con counterQ2[6]_out n258_in4
+
+.clb n259
+pinlist: n259_in1 n259_in2 n259_in3 n259_in4 n259_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ2[2]_out n259_in1
+.con counterQ2[3]_out n259_in2
+.con counterQ2[0]_out n259_in3
+.con counterQ2[1]_out n259_in4
+
+.clb n260
+pinlist: n260_in1 n260_in2 n260_in3 n260_in4 n260_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ3[6]_out n260_in1
+.con counterQ3[5]_out n260_in2
+.con counterQ3[4]_out n260_in3
+.con n261_out n260_in4
+
+.clb n261
+pinlist: n261_in1 n261_in2 n261_in3 n261_in4 n261_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ3[3]_out n261_in1
+.con counterQ3[2]_out n261_in2
+.con counterQ3[1]_out n261_in3
+.con counterQ3[0]_out n261_in4
+
+.clb n262
+pinlist: n262_in1 n262_in2 n262_in3 n262_in4 n262_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ3[6]_out n262_in1
+.con counterQ3[5]_out n262_in2
+.con counterQ3[4]_out n262_in3
+.con n263_out n262_in4
+
+.clb n263
+pinlist: n263_in1 n263_in2 n263_in3 n263_in4 n263_out open
+subblock: subb 0 1 2 3 4 5
+
+.con counterQ3[3]_out n263_in1
+.con counterQ3[2]_out n263_in2
+.con counterQ3[1]_out n263_in3
+.con counterQ3[0]_out n263_in4
+
+.clb n461
+pinlist: n461_in1 n461_in2 n461_in3 open n461_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n266_out n461_in1
+.con n268_out n461_in2
+.con Char_In[0]_out n461_in3
+
+.clb n266
+pinlist: n266_in1 n266_in2 n266_in3 n266_in4 n266_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[1]_out n266_in1
+.con n267_out n266_in2
+.con Char_In[4]_out n266_in3
+.con Char_In[3]_out n266_in4
+
+.clb n267
+pinlist: n267_in1 n267_in2 n267_in3 n267_in4 n267_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[6]_out n267_in1
+.con Char_In[7]_out n267_in2
+.con Char_In[2]_out n267_in3
+.con Char_In[5]_out n267_in4
+
+.clb n268
+pinlist: n268_in1 n268_in2 n268_in3 open n268_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n250_out n268_in1
+.con n269_out n268_in1
+.con n271_out n268_in1
+.con n272_out n268_in1
+.con n274_out n268_in1
+.con Ip_In_out n268_in1
+.con g35_out n268_in2
+.con GrpL_In_out n268_in2
+.con n270_out n268_in2
+.con g80_out n268_in2
+.con g81_out n268_in2
+.con g55_out n268_in2
+.con g17_out n268_in2
+.con g79_out n268_in3
+.con g99_out n268_in3
+
+.clb n269
+pinlist: n269_in1 n269_in2 open open n269_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n250_out n269_in1
+.con n255_out n269_in1
+.con g35_out n269_in2
+
+.clb n270
+pinlist: n270_in1 n270_in2 n270_in3 n270_in4 n270_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n262_out n270_in1
+.con n260_out n270_in2
+.con g17_out n270_in3
+.con g35_out n270_in3
+.con g1_out n270_in3
+.con g55_out n270_in3
+.con counterQ3[7]_out n270_in3
+.con GrpL_In_out n270_in4
+.con g35_out n270_in4
+.con g55_out n270_in4
+.con g1_out n270_in4
+.con counterQ3[7]_out n270_in4
+
+.clb n271
+pinlist: n271_in1 n271_in2 open open n271_out open
+subblock: subb 0 1 2 3 4 5
+
+.con GrpL_In_out n271_in1
+.con g17_out n271_in1
+.con GrpIn_In_out n271_in1
+.con Op_In_out n271_in2
+
+.clb n272
+pinlist: n272_in1 n272_in2 open open n272_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n271_out n272_in1
+.con GrpL_In_out n272_in1
+.con g35_out n272_in1
+.con g17_out n272_in1
+.con GrpIn_In_out n272_in1
+.con n273_out n272_in2
+
+.clb n273
+pinlist: n273_in1 n273_in2 n273_in3 open n273_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n253_out n273_in1
+.con Op_In_out n273_in1
+.con GrpR_In_out n273_in1
+.con g17_out n273_in2
+.con n251_out n273_in2
+.con counterQ1[7]_out n273_in3
+
+.clb n274
+pinlist: n274_in1 n274_in2 open open n274_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n271_out n274_in1
+.con GrpL_In_out n274_in1
+.con g35_out n274_in1
+.con g17_out n274_in1
+.con GrpIn_In_out n274_in1
+.con n273_out n274_in2
+
+.clb n476
+pinlist: n476_in1 n476_in2 n476_in3 open n476_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n278_out n476_in1
+.con n277_out n476_in2
+.con n276_out n476_in3
+
+.clb n276
+pinlist: n276_in1 n276_in2 n276_in3 open n276_out open
+subblock: subb 0 1 2 3 4 5
+
+.con g35_out n276_in1
+.con n271_out n276_in1
+.con n272_out n276_in1
+.con n274_out n276_in1
+.con GrpL_In_out n276_in1
+.con Ip_In_out n276_in1
+.con g55_out n276_in1
+.con g17_out n276_in1
+.con g80_out n276_in2
+.con g81_out n276_in2
+.con g99_out n276_in2
+.con n269_out n276_in3
+
+.clb n277
+pinlist: n277_in1 n277_in2 n277_in3 n277_in4 n277_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[6]_out n277_in1
+.con Char_In[4]_out n277_in2
+.con Char_In[7]_out n277_in3
+.con Char_In[2]_out n277_in4
+
+.clb n278
+pinlist: n278_in1 n278_in2 n278_in3 n278_in4 n278_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[1]_out n278_in1
+.con Char_In[5]_out n278_in2
+.con Char_In[0]_out n278_in3
+.con Char_In[3]_out n278_in4
+
+.clb n279
+pinlist: n279_in1 n279_in2 n279_in3 open n279_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n471_out n279_in1
+.con Cnt_En_In_out n279_in2
+.con n466_out n279_in3
+
+.clb n466
+pinlist: n466_in1 n466_in2 n466_in3 open n466_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n281_out n466_in1
+.con n271_out n466_in2
+.con Ip_In_out n466_in2
+.con g80_out n466_in2
+.con n274_out n466_in3
+.con g81_out n466_in3
+
+.clb n281
+pinlist: n281_in1 n281_in2 n281_in3 open n281_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[5]_out n281_in1
+.con n282_out n281_in2
+.con n283_out n281_in3
+
+.clb n282
+pinlist: n282_in1 n282_in2 n282_in3 n282_in4 n282_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[6]_out n282_in1
+.con Char_In[4]_out n282_in2
+.con Char_In[7]_out n282_in3
+.con Char_In[2]_out n282_in4
+
+.clb n283
+pinlist: n283_in1 n283_in2 n283_in3 open n283_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[1]_out n283_in1
+.con Char_In[0]_out n283_in2
+.con Char_In[3]_out n283_in3
+
+.clb n471
+pinlist: n471_in1 n471_in2 n471_in3 n471_in4 n471_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n271_out n471_in1
+.con Ip_In_out n471_in1
+.con n285_out n471_in2
+.con n286_out n471_in3
+.con g81_out n471_in4
+
+.clb n285
+pinlist: n285_in1 n285_in2 n285_in3 n285_in4 n285_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[6]_out n285_in1
+.con Char_In[4]_out n285_in2
+.con Char_In[7]_out n285_in3
+.con Char_In[2]_out n285_in4
+
+.clb n286
+pinlist: n286_in1 n286_in2 n286_in3 n286_in4 n286_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Char_In[1]_out n286_in1
+.con Char_In[5]_out n286_in2
+.con Char_In[0]_out n286_in3
+.con Char_In[3]_out n286_in4
+
+.clb n288
+pinlist: n288_in1 n288_in2 n288_in3 open n288_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Syn_Rst_In_out n288_in1
+.con n471_out n288_in2
+.con n466_out n288_in3
+
+.clb GrpR_Out
+pinlist: GrpR_Out_in1 GrpR_Out_in2 GrpR_Out_in3 open GrpR_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n250_out GrpR_Out_in1
+.con n262_out GrpR_Out_in1
+.con n255_out GrpR_Out_in1
+.con g35_out GrpR_Out_in2
+.con n260_out GrpR_Out_in2
+.con g55_out GrpR_Out_in3
+.con counterQ3[7]_out GrpR_Out_in3
+
+.clb Cnt_En_Out
+pinlist: Cnt_En_Out_in1 Cnt_En_Out_in2 Cnt_En_Out_in3 open Cnt_En_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n279_out Cnt_En_Out_in1
+.con n461_out Cnt_En_Out_in2
+.con n476_out Cnt_En_Out_in3
+
+.clb Syn_Rst_Out
+pinlist: Syn_Rst_Out_in1 Syn_Rst_Out_in2 Syn_Rst_Out_in3 open Syn_Rst_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n461_out Syn_Rst_Out_in1
+.con n288_out Syn_Rst_Out_in2
+.con n476_out Syn_Rst_Out_in3
+
+.clb GrpIn_Out
+pinlist: GrpIn_Out_in1 GrpIn_Out_in2 open open GrpIn_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n272_out GrpIn_Out_in1
+.con n250_out GrpIn_Out_in1
+.con n269_out GrpIn_Out_in1
+.con GrpL_In_out GrpIn_Out_in2
+.con n270_out GrpIn_Out_in2
+.con g35_out GrpIn_Out_in2
+.con g17_out GrpIn_Out_in2
+.con g55_out GrpIn_Out_in2
+
+.clb Ip_Out
+pinlist: Ip_Out_in1 Ip_Out_in2 Ip_Out_in3 open Ip_Out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n250_out Ip_Out_in1
+.con n269_out Ip_Out_in1
+.con n271_out Ip_Out_in1
+.con n272_out Ip_Out_in1
+.con n274_out Ip_Out_in1
+.con Ip_In_out Ip_Out_in1
+.con g35_out Ip_Out_in2
+.con GrpL_In_out Ip_Out_in2
+.con n270_out Ip_Out_in2
+.con g80_out Ip_Out_in2
+.con g81_out Ip_Out_in2
+.con g55_out Ip_Out_in2
+.con g17_out Ip_Out_in2
+.con g79_out Ip_Out_in3
+.con g99_out Ip_Out_in3
+
+.clb Syn_Rst_Inter1_out
+pinlist: Syn_Rst_Inter1_out_in1 Syn_Rst_Inter1_out_in2 open open Syn_Rst_Inter1_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Syn_Rst_In_out Syn_Rst_Inter1_out_in1
+.con n471_out Syn_Rst_Inter1_out_in2
+
+.clb Syn_Rst_Inter2_out
+pinlist: Syn_Rst_Inter2_out_in1 Syn_Rst_Inter2_out_in2 Syn_Rst_Inter2_out_in3 open Syn_Rst_Inter2_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con Syn_Rst_In_out Syn_Rst_Inter2_out_in1
+.con n471_out Syn_Rst_Inter2_out_in2
+.con n466_out Syn_Rst_Inter2_out_in3
+
+.clb Syn_Rst_Inter3_out
+pinlist: Syn_Rst_Inter3_out_in1 Syn_Rst_Inter3_out_in2 Syn_Rst_Inter3_out_in3 Syn_Rst_Inter3_out_in4 Syn_Rst_Inter3_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n278_out Syn_Rst_Inter3_out_in1
+.con n288_out Syn_Rst_Inter3_out_in2
+.con n277_out Syn_Rst_Inter3_out_in3
+.con n276_out Syn_Rst_Inter3_out_in4
+
+.clb Syn_Rst_Inter4_out
+pinlist: Syn_Rst_Inter4_out_in1 Syn_Rst_Inter4_out_in2 Syn_Rst_Inter4_out_in3 open Syn_Rst_Inter4_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n461_out Syn_Rst_Inter4_out_in1
+.con n288_out Syn_Rst_Inter4_out_in2
+.con n476_out Syn_Rst_Inter4_out_in3
+
+.clb Cnt_En_Inter1_out
+pinlist: Cnt_En_Inter1_out_in1 Cnt_En_Inter1_out_in2 open open Cnt_En_Inter1_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n471_out Cnt_En_Inter1_out_in1
+.con Cnt_En_In_out Cnt_En_Inter1_out_in2
+
+.clb Cnt_En_Inter2_out
+pinlist: Cnt_En_Inter2_out_in1 Cnt_En_Inter2_out_in2 Cnt_En_Inter2_out_in3 open Cnt_En_Inter2_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n471_out Cnt_En_Inter2_out_in1
+.con Cnt_En_In_out Cnt_En_Inter2_out_in2
+.con n466_out Cnt_En_Inter2_out_in3
+
+.clb Cnt_En_Inter3_out
+pinlist: Cnt_En_Inter3_out_in1 Cnt_En_Inter3_out_in2 Cnt_En_Inter3_out_in3 Cnt_En_Inter3_out_in4 Cnt_En_Inter3_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n279_out Cnt_En_Inter3_out_in1
+.con n278_out Cnt_En_Inter3_out_in2
+.con n277_out Cnt_En_Inter3_out_in3
+.con n276_out Cnt_En_Inter3_out_in4
+
+.clb Cnt_En_Inter4_out
+pinlist: Cnt_En_Inter4_out_in1 Cnt_En_Inter4_out_in2 Cnt_En_Inter4_out_in3 open Cnt_En_Inter4_out_out open
+subblock: subb 0 1 2 3 4 5
+
+.con n279_out Cnt_En_Inter4_out_in1
+.con n461_out Cnt_En_Inter4_out_in2
+.con n476_out Cnt_En_Inter4_out_in3
+
+.clb n441
+pinlist: n441_in1 n441_in2 n441_in3 open g1_out clk_out
+subblock: subb 0 1 2 3 4 5
+
+.con n272_out n441_in1
+.con n250_out n441_in1
+.con n269_out n441_in1
+.con GrpL_In_out n441_in2
+.con n270_out n441_in2
+.con g35_out n441_in2
+.con g17_out n441_in2
+.con g55_out n441_in2
+.con g79_out n441_in3
+
+.clb n446
+pinlist: n446_in1 n446_in2 n446_in3 open g17_out clk_out
+subblock: subb 0 1 2 3 4 5
+
+.con GrpL_In_out n446_in1
+.con g17_out n446_in1
+.con GrpIn_In_out n446_in1
+.con Op_In_out n446_in2
+.con g81_out n446_in3
+
+.clb n451
+pinlist: n451_in1 n451_in2 n451_in3 open g35_out clk_out
+subblock: subb 0 1 2 3 4 5
+
+.con GrpL_In_out n451_in1
+.con n271_out n451_in1
+.con g35_out n451_in1
+.con g17_out n451_in1
+.con GrpIn_In_out n451_in1
+.con n273_out n451_in2
+.con g80_out n451_in3
+
+.clb n456
+pinlist: n456_in1 n456_in2 n456_in3 open g55_out clk_out
+subblock: subb 0 1 2 3 4 5
+
+.con GrpL_In_out n456_in1
+.con g17_out n456_in1
+.con n272_out n456_in1
+.con g35_out n456_in1
+.con g55_out n456_in1
+.con g99_out n456_in2
+.con n269_out n456_in3
+
+.clb g79 #only FF used
+pinlist: g79_ffin open open open g79_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n461_out g79_ffin
+
+.clb g99 #only FF used
+pinlist: g99_ffin open open open g99_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n476_out g99_ffin
+
+.clb g80 #only FF used
+pinlist: g80_ffin open open open g80_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n466_out g80_ffin
+
+.clb g81 #only FF used
+pinlist: g81_ffin open open open g81_out clk_out
+subblock: subb 0 1 2 3 4
+
+.con n471_out g81_ffin
