@@ -1,11 +1,11 @@
 Channel width: 50, max routing iterations: 30, 
 Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
 Sharing file: None,
-	Routing: rt = 4.60421068, wires = 20828, iterations = 7
+	Routing: rt = 5.410843727, wires = 20540, iterations = 8
 
 Channel width: 50, max routing iterations: 30, 
 Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
 Sharing file: None,
-	Routing: rt = 4.233817104, wires = 20825, iterations = 6
+	Routing: rt = 5.798775278, wires = 20592, iterations = 8
 
 testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net: Warning: Routing with lower boundary, 50, for the channel width succeeded, no certainity about the minimimum channel width. Channel width could be lower than lower boundary.

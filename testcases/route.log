@@ -1,0 +1,40 @@
+Channel width: 11, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 3.041768022, wires = 21892, iterations = 8
+
+Channel width: 12, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 2.423395423, wires = 17268, iterations = 7
+
+Channel width: 12, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 3.405395058, wires = 16673, iterations = 9
+
+Channel width: 10, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 2.069355104, wires = 16341, iterations = 8
+
+Channel width: 11, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 3.029988411, wires = 21647, iterations = 8
+
+Channel width: 12, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 3.306016907, wires = 17204, iterations = 9
+
+Channel width: 12, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 8.234069089, wires = 16439, iterations = 16
+
+Channel width: 10, max routing iterations: 30, 
+Net file: testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Routing: rt = 2.048780177, wires = 16251, iterations = 7
+

@@ -9,3 +9,11 @@ testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net: Minimum channel width
 testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net: Minimum channel width 10
 testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net: Minimum channel width 10
 testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net: Minimum channel width 10
+testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net: Minimum channel width 9
+testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net: Minimum channel width 10
+testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net: Minimum channel width 10
+testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net: Minimum channel width 8
+testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net: Minimum channel width 9
+testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net: Minimum channel width 10
+testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net: Minimum channel width 10
+testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net: Minimum channel width 8

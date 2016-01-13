@@ -1,13 +1,13 @@
 Placement effort: 10, 
 Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
 Sharing file: None,
-	Bundling: rt = 0.207755242, 2070 bundles
-	Placement: rt = 91.928309259, Total BBB Cost: 17424.661080000045
+	Bundling: rt = 0.206394436, 2070 bundles
+	Placement: rt = 79.616647036, Total BBB Cost: 17734.328660000025
 	Bundles after flattening: 2070 bundles
-	Clbs used: 1991, Total BBB Cost after flattening: 17424.661080000045
+	Clbs used: 1991, Total BBB Cost after flattening: 17734.328660000025
 
 Channel width: 10, max routing iterations: 30, 
 Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
 Sharing file: None,
-	Routing: rt = 4.715016262, wires = 17356, iterations = 10
+	Routing: rt = 4.311515886, wires = 18546, iterations = 10
 

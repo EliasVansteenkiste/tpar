@@ -1,0 +1,64 @@
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.011301173, 2598 bundles
+	Placement: rt = 114.43449304, Total BBB Cost: 24153.097180000103
+	Bundles after flattening: 2598 bundles
+	Clbs used: 2486, Total BBB Cost after flattening: 24153.097180000103
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.079404967, 2070 bundles
+	Placement: rt = 88.033465963, Total BBB Cost: 17734.328660000025
+	Bundles after flattening: 2070 bundles
+	Clbs used: 1991, Total BBB Cost after flattening: 17734.328660000025
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.090065967, 2068 bundles
+	Placement: rt = 85.785774496, Total BBB Cost: 17654.192360000037
+	Bundles after flattening: 2068 bundles
+	Clbs used: 1989, Total BBB Cost after flattening: 17654.192360000037
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.008395518, 2170 bundles
+	Placement: rt = 78.249211354, Total BBB Cost: 17943.483900000032
+	Bundles after flattening: 2170 bundles
+	Clbs used: 2091, Total BBB Cost after flattening: 17943.483900000032
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.011225929, 2598 bundles
+	Placement: rt = 106.40292058, Total BBB Cost: 24153.097180000103
+	Bundles after flattening: 2598 bundles
+	Clbs used: 2486, Total BBB Cost after flattening: 24153.097180000103
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.073300783, 2070 bundles
+	Placement: rt = 84.884540219, Total BBB Cost: 17823.185380000054
+	Bundles after flattening: 2070 bundles
+	Clbs used: 1991, Total BBB Cost after flattening: 17823.185380000054
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.099066021, 2068 bundles
+	Placement: rt = 85.414482111, Total BBB Cost: 17612.585020000042
+	Bundles after flattening: 2068 bundles
+	Clbs used: 1989, Total BBB Cost after flattening: 17612.585020000042
+
+Placement effort: 10, 
+Net file: testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net, 
+Sharing file: None,
+	Bundling: rt = 0.009356264, 2170 bundles
+	Placement: rt = 73.568971962, Total BBB Cost: 17943.483900000032
+	Bundles after flattening: 2170 bundles
+	Clbs used: 2091, Total BBB Cost after flattening: 17943.483900000032
+
