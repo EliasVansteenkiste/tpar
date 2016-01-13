@@ -1,0 +1,1251 @@
+VCHAN_33_32_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_34_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_2_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_3_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_4_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_12_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_34_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_14_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_16_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_34_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_26_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_29_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_30_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_36_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_41_1, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_34_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_44_1, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_34_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_45_1, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_34_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_1_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_2_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_7_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_9_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_14_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_35_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_18_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_21_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_29_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_30_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_3_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_14_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_36_14_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_15_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_36_15_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_17_1, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_36_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_20_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_28_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_29_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_30_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_31_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_36_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_3_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_9_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_14_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_37_14_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_15_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_37_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_18_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_20_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_21_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_26_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_27_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_34_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_46_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_37_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_37_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_3_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_12_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_19_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_26_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_28_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_38_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_2_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_3_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_4_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_7_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_14_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_15_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_39_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_39_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_2_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_15_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_19_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_24_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_26_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_27_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_40_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_7_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_10_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_11_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_12_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_14_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_37_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_41_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_4_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_19_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_30_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_30_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_31_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_34_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_42_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_3_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_5_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_7_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_7_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_41_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_43_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_4_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_5_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_6_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_16_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_19_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_28_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_34_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_44_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_29_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_30_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_47_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_45_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_9_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_13_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_46_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_12_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_17_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_28_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_47_50_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_8_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_9_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_48_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_7_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_12_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_13_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_20_0, basecost = 1.0, capacity = 1, occupation = 3, type = VCHAN
+VCHAN_49_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_21_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_28_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_30_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_49_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_14_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_16_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_17_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_18_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_20_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_21_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_22_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_26_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_29_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_30_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_50_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+Runtime: 100.007465258
+No routing present
+Number of wires:  0
+No routing present
+low 3, high 20, routing with cw 14
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:29:55 1..Overuse:1705 RNs (1185 IPINs) of the 27576 routed RNs (15552 wires), total overuse = 1732
+14:29:55 2..Overuse:807 RNs (578 IPINs) of the 28503 routed RNs (15899 wires), total overuse = 808
+14:29:55 3..Overuse:101 RNs (43 IPINs) of the 29595 routed RNs (16454 wires), total overuse = 101
+14:29:56 4..Overuse:19 RNs (0 IPINs) of the 29599 routed RNs (16417 wires), total overuse = 19
+14:29:56 5..Overuse:5 RNs (0 IPINs) of the 29589 routed RNs (16407 wires), total overuse = 5
+14:29:56 6..Routing succeeded in 6 trials.
+Runtime: 1.728655518
+Number of wires:  16400
+Routing succeeded, high = 14
+low 3, high 14, routing with cw 10
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:29:57 1..Overuse:2128 RNs (1233 IPINs) of the 27222 routed RNs (15250 wires), total overuse = 2163
+14:29:57 2..Overuse:1130 RNs (631 IPINs) of the 28340 routed RNs (15785 wires), total overuse = 1135
+14:29:57 3..Overuse:280 RNs (60 IPINs) of the 29796 routed RNs (16662 wires), total overuse = 280
+14:29:57 4..Overuse:91 RNs (5 IPINs) of the 30159 routed RNs (16969 wires), total overuse = 91
+14:29:58 5..Overuse:25 RNs (1 IPINs) of the 30366 routed RNs (17175 wires), total overuse = 25
+14:29:58 6..Overuse:5 RNs (1 IPINs) of the 30485 routed RNs (17294 wires), total overuse = 5
+14:29:59 7..Routing succeeded in 7 trials.
+Runtime: 2.481660816
+Number of wires:  17286
+Routing succeeded, high = 10
+low 3, high 10, routing with cw 7
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:29:59 1..Overuse:3579 RNs (1337 IPINs) of the 25811 routed RNs (13971 wires), total overuse = 3728
+14:29:59 2..Overuse:2582 RNs (778 IPINs) of the 27399 routed RNs (14972 wires), total overuse = 2656
+14:30:00 3..Overuse:1579 RNs (237 IPINs) of the 29541 routed RNs (16516 wires), total overuse = 1603
+14:30:00 4..Overuse:1096 RNs (117 IPINs) of the 30741 routed RNs (17594 wires), total overuse = 1100
+14:30:02 5..Overuse:861 RNs (81 IPINs) of the 31734 routed RNs (18547 wires), total overuse = 867
+14:30:03 6..Overuse:757 RNs (91 IPINs) of the 32656 routed RNs (19479 wires), total overuse = 757
+14:30:06 7..Overuse:666 RNs (78 IPINs) of the 32955 routed RNs (19764 wires), total overuse = 666
+14:30:09 8..Overuse:619 RNs (77 IPINs) of the 33330 routed RNs (20134 wires), total overuse = 621
+14:30:14 9..Overuse:586 RNs (81 IPINs) of the 33372 routed RNs (20189 wires), total overuse = 586
+14:30:18 10..Overuse:576 RNs (60 IPINs) of the 33623 routed RNs (20421 wires), total overuse = 577
+14:30:23 11..Overuse:561 RNs (68 IPINs) of the 33784 routed RNs (20594 wires), total overuse = 562
+14:30:27 12..Overuse:509 RNs (65 IPINs) of the 33918 routed RNs (20726 wires), total overuse = 509
+14:30:31 13..Overuse:546 RNs (57 IPINs) of the 34039 routed RNs (20839 wires), total overuse = 548
+14:30:36 14..Overuse:509 RNs (64 IPINs) of the 34052 routed RNs (20872 wires), total overuse = 510
+14:30:41 15..Overuse:481 RNs (45 IPINs) of the 34107 routed RNs (20905 wires), total overuse = 483
+14:30:45 16..Overuse:496 RNs (54 IPINs) of the 34121 routed RNs (20923 wires), total overuse = 497
+14:30:49 17..Overuse:502 RNs (47 IPINs) of the 34222 routed RNs (21018 wires), total overuse = 502
+14:30:53 18..Overuse:500 RNs (53 IPINs) of the 34242 routed RNs (21047 wires), total overuse = 500
+14:30:58 19..Overuse:469 RNs (64 IPINs) of the 34216 routed RNs (21031 wires), total overuse = 469
+14:31:02 20..Overuse:475 RNs (59 IPINs) of the 34260 routed RNs (21070 wires), total overuse = 475
+14:31:06 21..Overuse:481 RNs (50 IPINs) of the 34392 routed RNs (21197 wires), total overuse = 482
+14:31:11 22..Overuse:478 RNs (53 IPINs) of the 34610 routed RNs (21406 wires), total overuse = 479
+14:31:14 23..Overuse:488 RNs (60 IPINs) of the 34701 routed RNs (21506 wires), total overuse = 488
+14:31:18 24..Overuse:450 RNs (55 IPINs) of the 34723 routed RNs (21532 wires), total overuse = 450
+14:31:22 25..Overuse:461 RNs (55 IPINs) of the 34718 routed RNs (21525 wires), total overuse = 461
+14:31:25 26..Overuse:448 RNs (64 IPINs) of the 34802 routed RNs (21616 wires), total overuse = 448
+14:31:29 27..Overuse:440 RNs (47 IPINs) of the 34830 routed RNs (21627 wires), total overuse = 440
+14:31:32 28..Overuse:411 RNs (51 IPINs) of the 34845 routed RNs (21641 wires), total overuse = 411
+14:31:35 29..Overuse:405 RNs (44 IPINs) of the 34818 routed RNs (21604 wires), total overuse = 405
+14:31:39 30..Overuse:406 RNs (39 IPINs) of the 34943 routed RNs (21722 wires), total overuse = 406
+Routing failled after 31 trials!
+IPIN_3_42_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_9_41_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_12_42_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_13_10_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_13_39_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_15_41_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_15_48_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_17_39_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_19_31_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_19_36_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_20_44_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_21_33_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_21_47_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_22_4_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_23_46_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_24_48_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_25_30_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_25_35_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_25_36_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_26_25_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_27_11_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_27_29_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_27_45_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_27_50_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_28_6_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_28_39_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_28_48_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_29_33_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_29_46_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_30_7_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_30_34_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_30_35_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_30_46_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_31_5_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_31_45_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_33_39_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_35_49_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_38_16_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+IPIN_40_38_0, basecost = 0.95, capacity = 1, occupation = 2, type = IPIN
+HCHAN_5_38_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_6_43_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_7_42_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_8_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_9_35_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_9_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_9_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_10_14_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_10_36_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_10_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_10_47_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_10_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_11_36_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_11_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_11_47_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_11_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_12_37_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_12_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_12_40_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_12_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_12_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_13_34_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_13_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_13_40_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_13_41_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_14_24_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_14_29_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_14_29_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_14_41_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_14_43_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_41_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_43_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_44_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_46_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_15_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_18_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_26_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_30_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_31_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_36_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_42_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_16_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_34_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_40_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_41_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_17_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_18_32_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_18_37_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_18_37_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_18_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_18_39_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_27_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_29_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_30_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_35_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_39_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_44_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_45_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_50_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_3_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_32_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_35_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_40_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_47_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_36_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_41_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_21_50_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_4_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_28_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_28_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_36_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_47_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_22_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_7_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_29_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_31_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_23_48_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_5_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_8_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_9_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_28_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_31_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_35_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_35_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_39_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_45_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_24_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_5_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_6_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_39_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_49_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_25_50_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_31_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_42_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_46_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_26_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_11_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_16_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_17_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_24_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_25_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_30_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_34_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_48_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_27_49_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_8_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_19_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_24_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_25_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_28_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_30_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_33_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_37_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_41_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_43_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_28_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_29_19_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_29_28_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_29_46_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_29_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_29_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_5_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_9_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_15_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_17_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_41_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_30_45_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_4_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_22_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_36_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_42_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_31_49_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_16_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_22_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_28_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_44_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_45_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_32_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_33_29_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_33_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_34_15_0, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_34_27_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_34_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_34_48_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_35_48_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_36_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_39_41_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_41_16_4, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+VCHAN_0_30_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_35_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_36_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_0_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_4_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_6_40_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_7_45_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_8_49_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_9_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_23_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_37_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_38_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_10_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_11_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_11_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_10_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_35_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_38_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_41_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_12_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_13_39_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_13_41_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_13_48_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_15_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_32_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_34_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_36_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_42_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_14_48_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_24_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_27_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_36_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_37_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_38_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_15_42_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_15_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_38_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_41_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_43_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_47_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_16_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_17_15_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_17_33_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_17_37_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_18_30_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_18_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_18_46_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_18_47_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_27_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_29_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_41_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_42_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_19_45_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_32_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_33_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_33_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_37_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_38_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_41_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_48_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_20_50_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_21_24_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_21_31_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_21_38_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_21_44_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_31_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_36_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_39_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_44_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_47_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_22_49_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_8_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_29_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_32_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_33_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_35_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_44_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_45_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_46_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_46_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_23_47_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_5_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_8_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_27_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_29_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_32_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_35_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_24_45_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_25_34_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_25_36_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_25_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_25_42_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_25_48_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_25_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_31_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_35_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_44_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_45_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_26_48_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_17_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_18_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_19_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_25_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_27_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_28_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_37_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_39_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_41_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_43_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_27_50_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_16_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_25_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_37_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_42_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_47_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_28_50_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_6_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_16_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_27_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_33_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_34_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_45_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_46_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_29_47_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_6_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_8_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_19_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_20_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_44_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_45_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_30_49_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_31_17_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_31_40_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_31_46_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_32_19_0, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_32_28_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_32_47_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_32_50_4, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_8_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_39_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_33_45_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_24_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_39_5, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_34_44_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_35_43_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_42_1, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_36_48_3, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+VCHAN_41_16_2, basecost = 1.0, capacity = 1, occupation = 2, type = VCHAN
+Runtime: 103.236777775
+No routing present
+Number of wires:  0
+No routing present
+Routing failed, low = 7
+low 7, high 10, routing with cw 9
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:31:42 1..Overuse:2638 RNs (1257 IPINs) of the 26766 routed RNs (14842 wires), total overuse = 2703
+14:31:43 2..Overuse:1575 RNs (675 IPINs) of the 28079 routed RNs (15560 wires), total overuse = 1595
+14:31:43 3..Overuse:630 RNs (114 IPINs) of the 29793 routed RNs (16695 wires), total overuse = 631
+14:31:43 4..Overuse:316 RNs (26 IPINs) of the 30597 routed RNs (17410 wires), total overuse = 316
+14:31:44 5..Overuse:153 RNs (13 IPINs) of the 31434 routed RNs (18235 wires), total overuse = 153
+14:31:44 6..Overuse:71 RNs (7 IPINs) of the 31954 routed RNs (18757 wires), total overuse = 71
+14:31:45 7..Overuse:52 RNs (5 IPINs) of the 32328 routed RNs (19131 wires), total overuse = 52
+14:31:45 8..Overuse:34 RNs (4 IPINs) of the 32691 routed RNs (19491 wires), total overuse = 34
+14:31:47 9..Overuse:24 RNs (1 IPINs) of the 33006 routed RNs (19798 wires), total overuse = 24
+14:31:48 10..Overuse:22 RNs (2 IPINs) of the 32915 routed RNs (19710 wires), total overuse = 22
+14:31:49 11..Overuse:16 RNs (5 IPINs) of the 32855 routed RNs (19654 wires), total overuse = 16
+14:31:50 12..Overuse:13 RNs (2 IPINs) of the 32814 routed RNs (19610 wires), total overuse = 13
+14:31:51 13..Overuse:9 RNs (0 IPINs) of the 32854 routed RNs (19648 wires), total overuse = 9
+14:31:53 14..Overuse:6 RNs (1 IPINs) of the 32803 routed RNs (19599 wires), total overuse = 6
+14:31:53 15..Overuse:4 RNs (1 IPINs) of the 32798 routed RNs (19594 wires), total overuse = 4
+14:31:54 16..Overuse:5 RNs (2 IPINs) of the 32798 routed RNs (19596 wires), total overuse = 5
+14:31:55 17..Overuse:5 RNs (1 IPINs) of the 32798 routed RNs (19594 wires), total overuse = 5
+14:31:55 18..Overuse:3 RNs (0 IPINs) of the 32805 routed RNs (19600 wires), total overuse = 3
+14:31:56 19..Overuse:4 RNs (0 IPINs) of the 32799 routed RNs (19594 wires), total overuse = 4
+14:31:57 20..Overuse:3 RNs (0 IPINs) of the 32799 routed RNs (19594 wires), total overuse = 3
+14:31:57 21..Overuse:2 RNs (0 IPINs) of the 32800 routed RNs (19595 wires), total overuse = 2
+14:31:58 22..Overuse:4 RNs (1 IPINs) of the 32805 routed RNs (19601 wires), total overuse = 4
+14:31:59 23..Overuse:5 RNs (1 IPINs) of the 32797 routed RNs (19593 wires), total overuse = 5
+14:31:59 24..Overuse:1 RNs (0 IPINs) of the 32802 routed RNs (19597 wires), total overuse = 1
+14:32:00 25..Overuse:2 RNs (0 IPINs) of the 32799 routed RNs (19594 wires), total overuse = 2
+14:32:00 26..Overuse:1 RNs (0 IPINs) of the 32799 routed RNs (19594 wires), total overuse = 1
+14:32:01 27..Overuse:1 RNs (0 IPINs) of the 32800 routed RNs (19595 wires), total overuse = 1
+14:32:01 28..Overuse:2 RNs (0 IPINs) of the 32800 routed RNs (19595 wires), total overuse = 2
+14:32:01 29..Overuse:2 RNs (1 IPINs) of the 32855 routed RNs (19651 wires), total overuse = 2
+14:32:02 30..Overuse:3 RNs (0 IPINs) of the 32807 routed RNs (19602 wires), total overuse = 3
+Routing failled after 31 trials!
+HCHAN_17_49_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_19_48_1, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+HCHAN_20_42_3, basecost = 1.0, capacity = 1, occupation = 2, type = HCHAN
+Runtime: 20.156491643
+No routing present
+Number of wires:  0
+No routing present
+Routing failed, low = 9
+Minimum channel width found: 10
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:32:03 1..Overuse:1835 RNs (1201 IPINs) of the 27484 routed RNs (15482 wires), total overuse = 1869
+14:32:03 2..Overuse:929 RNs (603 IPINs) of the 28372 routed RNs (15780 wires), total overuse = 930
+14:32:03 3..Overuse:171 RNs (54 IPINs) of the 29575 routed RNs (16429 wires), total overuse = 171
+14:32:03 4..Overuse:37 RNs (2 IPINs) of the 29764 routed RNs (16569 wires), total overuse = 37
+14:32:04 5..Overuse:8 RNs (0 IPINs) of the 29833 routed RNs (16637 wires), total overuse = 8
+14:32:04 6..Overuse:1 RNs (0 IPINs) of the 29836 routed RNs (16641 wires), total overuse = 1
+14:32:04 7..Routing succeeded in 7 trials.
+Runtime: 1.865977209
+Number of wires:  16607
+Route with upper boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2486
+Aanmaken van de architectuur.
+14:32:05 1..Overuse:1821 RNs (1319 IPINs) of the 34778 routed RNs (20213 wires), total overuse = 1836
+14:32:05 2..Overuse:831 RNs (684 IPINs) of the 35703 routed RNs (20514 wires), total overuse = 834
+14:32:06 3..Overuse:52 RNs (22 IPINs) of the 36782 routed RNs (20928 wires), total overuse = 52
+14:32:07 4..Overuse:11 RNs (0 IPINs) of the 36707 routed RNs (20832 wires), total overuse = 11
+14:32:07 5..Overuse:3 RNs (0 IPINs) of the 36716 routed RNs (20841 wires), total overuse = 3
+14:32:08 6..Overuse:1 RNs (0 IPINs) of the 36722 routed RNs (20846 wires), total overuse = 1
+14:32:08 7..Routing succeeded in 7 trials.
+Runtime: 4.60421068
+Number of wires:  20828
+Route with lower boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_LUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2486
+Aanmaken van de architectuur.
+14:32:09 1..Overuse:1768 RNs (1307 IPINs) of the 34897 routed RNs (20320 wires), total overuse = 1783
+14:32:10 2..Overuse:828 RNs (663 IPINs) of the 35723 routed RNs (20516 wires), total overuse = 832
+14:32:11 3..Overuse:53 RNs (27 IPINs) of the 36791 routed RNs (20942 wires), total overuse = 53
+14:32:11 4..Overuse:6 RNs (0 IPINs) of the 36712 routed RNs (20840 wires), total overuse = 6
+14:32:12 5..Overuse:3 RNs (0 IPINs) of the 36709 routed RNs (20837 wires), total overuse = 3
+14:32:13 6..Routing succeeded in 6 trials.
+Runtime: 4.233817104
+Number of wires:  20825
+Warning: Routing with lower boundary for the channel width succeeded, no certainity about the minimimum channel width. Channel width could be lower than lower boundary.
+Route with upper boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 1991
+Aanmaken van de architectuur.
+14:32:14 1..Overuse:1806 RNs (1404 IPINs) of the 26701 routed RNs (15102 wires), total overuse = 1906
+14:32:14 2..Overuse:853 RNs (695 IPINs) of the 27528 routed RNs (15441 wires), total overuse = 867
+14:32:15 3..Overuse:139 RNs (110 IPINs) of the 28637 routed RNs (16041 wires), total overuse = 139
+14:32:15 4..Overuse:30 RNs (27 IPINs) of the 28669 routed RNs (16032 wires), total overuse = 30
+14:32:16 5..Overuse:11 RNs (8 IPINs) of the 28649 routed RNs (16009 wires), total overuse = 11
+14:32:16 6..Overuse:1 RNs (1 IPINs) of the 28685 routed RNs (16048 wires), total overuse = 1
+14:32:17 7..Routing succeeded in 7 trials.
+Runtime: 4.176941613
+Number of wires:  16028
+Route with lower boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TCON_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 1991
+Aanmaken van de architectuur.
+14:32:18 1..Overuse:1840 RNs (1400 IPINs) of the 26670 routed RNs (15073 wires), total overuse = 1935
+14:32:19 2..Overuse:906 RNs (731 IPINs) of the 27551 routed RNs (15506 wires), total overuse = 916
+14:32:19 3..Overuse:136 RNs (104 IPINs) of the 28732 routed RNs (16121 wires), total overuse = 136
+14:32:20 4..Overuse:28 RNs (24 IPINs) of the 28721 routed RNs (16093 wires), total overuse = 28
+14:32:20 5..Overuse:8 RNs (8 IPINs) of the 28702 routed RNs (16065 wires), total overuse = 8
+14:32:21 6..Overuse:1 RNs (1 IPINs) of the 28681 routed RNs (16047 wires), total overuse = 1
+14:32:22 7..Overuse:1 RNs (1 IPINs) of the 28683 routed RNs (16048 wires), total overuse = 1
+14:32:23 8..Overuse:1 RNs (1 IPINs) of the 28686 routed RNs (16051 wires), total overuse = 1
+14:32:24 9..Routing succeeded in 9 trials.
+Runtime: 7.857754275
+Number of wires:  16054
+Warning: Routing with lower boundary for the channel width succeeded, no certainity about the minimimum channel width. Channel width could be lower than lower boundary.
+Route with upper boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 1989
+Aanmaken van de architectuur.
+14:32:26 1..Overuse:1793 RNs (1392 IPINs) of the 27122 routed RNs (15440 wires), total overuse = 1889
+14:32:27 2..Overuse:893 RNs (714 IPINs) of the 27982 routed RNs (15904 wires), total overuse = 908
+14:32:27 3..Overuse:128 RNs (95 IPINs) of the 29187 routed RNs (16573 wires), total overuse = 128
+14:32:28 4..Overuse:22 RNs (21 IPINs) of the 29196 routed RNs (16552 wires), total overuse = 22
+14:32:28 5..Overuse:10 RNs (9 IPINs) of the 29167 routed RNs (16524 wires), total overuse = 10
+14:32:29 6..Overuse:5 RNs (5 IPINs) of the 29168 routed RNs (16526 wires), total overuse = 5
+14:32:30 7..Overuse:3 RNs (3 IPINs) of the 29175 routed RNs (16532 wires), total overuse = 3
+14:32:32 8..Routing succeeded in 8 trials.
+Runtime: 6.238902287
+Number of wires:  16530
+Route with lower boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TLC_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 1989
+Aanmaken van de architectuur.
+14:32:32 1..Overuse:1805 RNs (1388 IPINs) of the 27102 routed RNs (15403 wires), total overuse = 1905
+14:32:33 2..Overuse:909 RNs (724 IPINs) of the 27937 routed RNs (15869 wires), total overuse = 927
+14:32:34 3..Overuse:143 RNs (104 IPINs) of the 29192 routed RNs (16584 wires), total overuse = 143
+14:32:34 4..Overuse:41 RNs (36 IPINs) of the 29201 routed RNs (16561 wires), total overuse = 41
+14:32:35 5..Overuse:15 RNs (15 IPINs) of the 29162 routed RNs (16514 wires), total overuse = 15
+14:32:35 6..Overuse:2 RNs (2 IPINs) of the 29161 routed RNs (16514 wires), total overuse = 2
+14:32:36 7..Routing succeeded in 7 trials.
+Runtime: 4.575595607
+Number of wires:  16504
+Warning: Routing with lower boundary for the channel width succeeded, no certainity about the minimimum channel width. Channel width could be lower than lower boundary.
+Route with upper boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:32:37 1..Overuse:1493 RNs (1103 IPINs) of the 27143 routed RNs (15029 wires), total overuse = 1524
+14:32:38 2..Overuse:713 RNs (574 IPINs) of the 27764 routed RNs (15149 wires), total overuse = 716
+14:32:38 3..Overuse:53 RNs (30 IPINs) of the 28640 routed RNs (15484 wires), total overuse = 53
+14:32:39 4..Overuse:10 RNs (0 IPINs) of the 28590 routed RNs (15405 wires), total overuse = 10
+14:32:39 5..Overuse:2 RNs (0 IPINs) of the 28565 routed RNs (15380 wires), total overuse = 2
+14:32:40 6..Routing succeeded in 6 trials.
+Runtime: 3.302163428
+Number of wires:  15366
+Route with lower boundary channel width of 50
+Read in con netlist testcases/MAC_PE_float_TLUT_conventional4/MAC_PE_float.net.. 
+No. of Clbs: 2091
+Aanmaken van de architectuur.
+14:32:41 1..Overuse:1444 RNs (1093 IPINs) of the 27189 routed RNs (15054 wires), total overuse = 1466
+14:32:41 2..Overuse:650 RNs (570 IPINs) of the 27760 routed RNs (15133 wires), total overuse = 651
+14:32:42 3..Overuse:47 RNs (33 IPINs) of the 28612 routed RNs (15457 wires), total overuse = 47
+14:32:42 4..Overuse:7 RNs (0 IPINs) of the 28547 routed RNs (15360 wires), total overuse = 7
+14:32:43 5..Overuse:5 RNs (0 IPINs) of the 28526 routed RNs (15339 wires), total overuse = 5
+14:32:43 6..Overuse:1 RNs (0 IPINs) of the 28547 routed RNs (15360 wires), total overuse = 1
+14:32:44 7..Routing succeeded in 7 trials.
+Runtime: 3.67110385
+Number of wires:  15350
+Warning: Routing with lower boundary for the channel width succeeded, no certainity about the minimimum channel width. Channel width could be lower than lower boundary.
+
